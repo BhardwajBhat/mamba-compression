@@ -1,0 +1,16 @@
+quant,bits,group,rb,rc,rdt,layer_mode,ppl
+hadamard,8,64,16,16,160,early,12.3883
+hadamard,8,64,16,16,160,mid,12.3970
+hadamard,8,64,16,16,160,late,12.3890
+hadamard,8,64,16,16,120,early,12.3965
+hadamard,8,64,16,16,120,mid,12.4630
+hadamard,8,64,16,16,120,late,12.6058
+hadamard,8,64,16,16,80,early,12.3881
+hadamard,8,64,16,16,160,early,12.3883
+hadamard,8,64,16,16,160,early,12.3895
+hadamard,8,64,16,16,160,mid,12.4074
+hadamard,8,64,16,16,160,late,12.3896
+hadamard,8,64,16,16,120,early,12.3973
+hadamard,8,64,16,16,120,mid,12.4663
+hadamard,8,64,16,16,120,late,12.6071
+hadamard,8,64,16,16,80,early,12.3923
